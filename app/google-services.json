@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "993678098406",
+    "firebase_url": "https://apiteste-c2ed3.firebaseio.com",
+    "project_id": "apiteste-c2ed3",
+    "storage_bucket": "apiteste-c2ed3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993678098406:android:34cbad6ed0deecb3a3e027",
+        "android_client_info": {
+          "package_name": "com.gabriel.apitestefinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993678098406-s8du2fk789100bksvse72iq0a2inq64i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9M0OddO2mMSnblqgitvklRI63-Xv3pQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993678098406-s8du2fk789100bksvse72iq0a2inq64i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
